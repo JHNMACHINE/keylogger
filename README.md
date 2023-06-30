@@ -2,5 +2,4 @@
 A keylogger made in Python
 ## ability
 - keylogger
-- persistence
-- remote email
+- remote email using libero server
